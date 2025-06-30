@@ -92,7 +92,7 @@
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivaashok&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivaashok&theme=github-dark" />
 </p>
 </details>
 
@@ -121,7 +121,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="/github-user-contribution.svg" />
+  <img src="https://raw.githubusercontent.com/Shivaashok/Shivaashok/output/github-user-contribution.svg" />
 </p>
 
 ---
