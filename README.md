@@ -121,7 +121,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivaashok/Shivaashok/output/github-user-contribution.svg" />
+  <img src="https://github.com/user-attachments/assets/46786500-979d-4393-939d-0d21664a2572" />
 </p>
 
 ---
