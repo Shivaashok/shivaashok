@@ -92,7 +92,7 @@
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivaashok&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivaashok&theme=react-dark" />
 </p>
 </details>
 
@@ -104,6 +104,9 @@
 
 <details><summary><h3>📂 My Repositories</h3></summary>
 <p align="center">
+  <a href="https://github.com/Shivaashok/DEV4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=DEV4&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Shivaashok/flappy-bird-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=flappy-bird-ai&theme=tokyonight" />
   </a>
