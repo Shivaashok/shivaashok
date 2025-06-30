@@ -75,24 +75,43 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
+<details><summary><h3>🔥 Streak Stats</h3></summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaashok&theme=tokyonight_duo" />
-  <br>
+</p>
+</details>
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivaashok&show_icons=true&theme=tokyonight&count_private=true" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaashok&langs_count=10&layout=compact&theme=tokyonight" height="200px"/>
 </p>
+</details>
 
----
-
-## 📊 Contribution Graph
-
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivaashok&theme=github" />
 </p>
+</details>
 
-## 🐍 Snake Game
+<details><summary><h3>🏆 Git profile Trophies</h3></summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivaashok&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
+</details>
+
+<details><summary><h3>📂 My Repositories</h3></summary>
+<p align="center">
+  <!-- You can add specific repo pin cards here -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=DEV4&theme=tokyonight" />
+</p>
+</details>
+
+---
+
+## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
   <img src="https://github.com/Shivaashok/Shivaashok/blob/output/github-contribution-grid-snake.svg" />
@@ -103,5 +122,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
-<!-- Feel free to further customize it based on your preference -->
