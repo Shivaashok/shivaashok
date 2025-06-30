@@ -96,12 +96,6 @@
 </p>
 </details>
 
-<details><summary><h3>🏆 Git profile Trophies</h3></summary>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivaashok&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-</p>
-</details>
-
 <details><summary><h3>📂 My Repositories</h3></summary>
 <p align="center">
   <a href="https://github.com/Shivaashok/flappy-bird-ai">
@@ -123,6 +117,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
