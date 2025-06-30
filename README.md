@@ -121,7 +121,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/46786500-979d-4393-939d-0d21664a2572" />
+  <img src="https://github.com/user-attachments/assets/36802330-c399-4ee5-90bb-e24078819cc8" />
 </p>
 
 ---
