@@ -104,8 +104,15 @@
 
 <details><summary><h3>📂 My Repositories</h3></summary>
 <p align="center">
-  <!-- You can add specific repo pin cards here -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=DEV4&theme=tokyonight" />
+  <a href="https://github.com/Shivaashok/DEV4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=DEV4&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shivaashok/flappy-bird-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=flappy-bird-ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shivaashok/Saveetha-ARMS-Extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivaashok&repo=Saveetha-ARMS-Extension&theme=tokyonight" />
+  </a>
 </p>
 </details>
 
